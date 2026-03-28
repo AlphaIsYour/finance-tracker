@@ -1,0 +1,38 @@
+# =====================
+# Node (whatsapp)
+# =====================
+whatsapp/node_modules/
+whatsapp/.wwebjs_auth/
+whatsapp/.wwebjs_cache/
+
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+python/__pycache__/
+python/model/__pycache__/
+
+# =====================
+# Environment & secrets
+# =====================
+.env
+*.env
+
+# =====================
+# OS / Editor
+# =====================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =====================
+# Logs & temp
+# =====================
+*.log
+tmp/
+temp/
